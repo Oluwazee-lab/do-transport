@@ -49,7 +49,7 @@ const Hero: React.FC = () => {
             <div className="relative mx-auto w-full rounded-lg shadow-lg lg:max-w-md overflow-hidden transform rotate-2 hover:rotate-0 transition-transform duration-500">
                <img
                   className="w-full h-full object-cover"
-                  src="/../pic.png"
+                  src="/pic.png"
                   alt="Car on the road"
                 />
                 <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/70 to-transparent p-6">
